@@ -1,0 +1,2 @@
+# shaman
+Password manager application
