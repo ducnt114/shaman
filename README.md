@@ -1,2 +1,3 @@
 # shaman
+
 Password manager application
